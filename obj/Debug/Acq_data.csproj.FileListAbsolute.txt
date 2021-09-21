@@ -1,0 +1,11 @@
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\Acq_data.exe.config
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\Acq_data.exe
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\Acq_data.pdb
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\SewLib.dll
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\log4net.dll
+C:\Users\bornf\OneDrive\Desktop\Acq_data\bin\Debug\SewLib.pdb
+C:\Users\bornf\OneDrive\Desktop\Acq_data\obj\Debug\Acq_data.csproj.AssemblyReference.cache
+C:\Users\bornf\OneDrive\Desktop\Acq_data\obj\Debug\Acq_data.csproj.CoreCompileInputs.cache
+C:\Users\bornf\OneDrive\Desktop\Acq_data\obj\Debug\Acq_data.csproj.CopyComplete
+C:\Users\bornf\OneDrive\Desktop\Acq_data\obj\Debug\Acq_data.exe
+C:\Users\bornf\OneDrive\Desktop\Acq_data\obj\Debug\Acq_data.pdb
